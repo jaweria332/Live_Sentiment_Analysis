@@ -28,4 +28,8 @@
 
    **6 - Neutral**
  
- CNN model is trained to identitfy the above mentioned sentiments live. Model is now trained with 10 epochs due to time limitation. Its accuracy can be increased by applying very few changes in the CNN model, i.e. changing the number of *epochs*, changing the *batch size* etc etc.
+CNN model is trained to identitfy the above mentioned sentiments live. Model is now trained with 10 epochs due to time limitation. Its accuracy can be increased by applying very few changes in the CNN model, i.e. changing the number of *epochs*, changing the *batch size* etc etc.
+
+
+
+To download fer2013.csv: https://drive.google.com/drive/folders/1ARmgvAlZtalnIT5MZfD18rK9QhflvwRB?usp=sharing

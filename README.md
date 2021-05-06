@@ -1,4 +1,4 @@
-# Live_Sentiment_Analysis
+# Live Sentiment Analysis
 
 #### Live Sentiment Analysis using Concolutional Neural Network
 
